@@ -1,0 +1,54 @@
+.space{
+    padding-left: 3%;
+    padding-right: 3%;
+}
+.display{
+    display: flex;
+    justify-content: space-between;
+
+    
+}
+.background{
+    background-color: aquamarine;
+    font-size: x-large;
+    
+
+}
+.imgfixing{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2%;
+}
+img{
+    max-width: 150%;
+    max-height: 500%;
+    justify-content: space-between;
+
+}
+a:hover{
+    text-decoration: none;
+    
+}
+h2{
+    text-align: center;
+}
+.firstdiv{
+    display: flex;
+    padding-top: 5%;
+}
+.text{
+    padding-left: 10%;
+}
+.coffee{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+}
+footer{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
+p a{
+    color: aliceblue;
+}
